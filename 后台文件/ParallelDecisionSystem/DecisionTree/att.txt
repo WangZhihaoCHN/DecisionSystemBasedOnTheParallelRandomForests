@@ -1,0 +1,5 @@
+4
+Outlook String
+Temperature Num
+Humidity Num
+Windy String

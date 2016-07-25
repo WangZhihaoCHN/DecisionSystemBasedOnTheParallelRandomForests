@@ -1,0 +1,1873 @@
+第1轮迭代,规则0应该选择的属性为：safety
+新一次迭代规则队列长度为：3
+下一次迭代使用的规则：
+4,low:
+4,med:
+4,high:
+第2轮迭代,规则0应该为:叶子节点
+第2轮迭代,规则1应该选择的属性为：persons
+第2轮迭代,规则2应该选择的属性为：persons
+新一次迭代规则队列长度为：6
+下一次迭代使用的规则：
+3,2&4,med:
+3,4&4,med:
+3,more&4,med:
+3,2&4,high:
+3,4&4,high:
+3,more&4,high:
+第3轮迭代,规则0应该为:叶子节点
+第3轮迭代,规则1应该选择的属性为：buying
+第3轮迭代,规则2应该选择的属性为：maint
+第3轮迭代,规则3应该为:叶子节点
+第3轮迭代,规则4应该选择的属性为：buying
+第3轮迭代,规则5应该选择的属性为：buying
+新一次迭代规则队列长度为：16
+下一次迭代使用的规则：
+0,vhigh&3,4&4,med:
+0,high&3,4&4,med:
+0,med&3,4&4,med:
+0,low&3,4&4,med:
+1,vhigh&3,more&4,med:
+1,high&3,more&4,med:
+1,med&3,more&4,med:
+1,low&3,more&4,med:
+0,vhigh&3,4&4,high:
+0,high&3,4&4,high:
+0,med&3,4&4,high:
+0,low&3,4&4,high:
+0,vhigh&3,more&4,high:
+0,high&3,more&4,high:
+0,med&3,more&4,high:
+0,low&3,more&4,high:
+第4轮迭代,规则0应该选择的属性为：maint
+第4轮迭代,规则1应该选择的属性为：doors
+第4轮迭代,规则2应该选择的属性为：maint
+第4轮迭代,规则3应该选择的属性为：maint
+第4轮迭代,规则4应该选择的属性为：buying
+第4轮迭代,规则5应该选择的属性为：buying
+第4轮迭代,规则6应该选择的属性为：buying
+第4轮迭代,规则7应该选择的属性为：buying
+第4轮迭代,规则8应该选择的属性为：maint
+第4轮迭代,规则9应该选择的属性为：maint
+第4轮迭代,规则10应该选择的属性为：maint
+第4轮迭代,规则11应该选择的属性为：maint
+第4轮迭代,规则12应该选择的属性为：maint
+第4轮迭代,规则13应该选择的属性为：maint
+第4轮迭代,规则14应该选择的属性为：doors
+第4轮迭代,规则15应该选择的属性为：maint
+新一次迭代规则队列长度为：64
+下一次迭代使用的规则：
+0,vhigh&1,vhigh&3,4&4,med:
+0,vhigh&1,high&3,4&4,med:
+0,vhigh&1,med&3,4&4,med:
+0,vhigh&1,low&3,4&4,med:
+0,high&2,2&3,4&4,med:
+0,high&2,3&3,4&4,med:
+0,high&2,4&3,4&4,med:
+0,high&2,5more&3,4&4,med:
+0,med&1,vhigh&3,4&4,med:
+0,med&1,high&3,4&4,med:
+0,med&1,med&3,4&4,med:
+0,med&1,low&3,4&4,med:
+0,low&1,vhigh&3,4&4,med:
+0,low&1,high&3,4&4,med:
+0,low&1,med&3,4&4,med:
+0,low&1,low&3,4&4,med:
+0,vhigh&1,vhigh&3,more&4,med:
+0,high&1,vhigh&3,more&4,med:
+0,med&1,vhigh&3,more&4,med:
+0,low&1,vhigh&3,more&4,med:
+0,vhigh&1,high&3,more&4,med:
+0,high&1,high&3,more&4,med:
+0,med&1,high&3,more&4,med:
+0,low&1,high&3,more&4,med:
+0,vhigh&1,med&3,more&4,med:
+0,high&1,med&3,more&4,med:
+0,med&1,med&3,more&4,med:
+0,low&1,med&3,more&4,med:
+0,vhigh&1,low&3,more&4,med:
+0,high&1,low&3,more&4,med:
+0,med&1,low&3,more&4,med:
+0,low&1,low&3,more&4,med:
+0,vhigh&1,vhigh&3,4&4,high:
+0,vhigh&1,high&3,4&4,high:
+0,vhigh&1,med&3,4&4,high:
+0,vhigh&1,low&3,4&4,high:
+0,high&1,vhigh&3,4&4,high:
+0,high&1,high&3,4&4,high:
+0,high&1,med&3,4&4,high:
+0,high&1,low&3,4&4,high:
+0,med&1,vhigh&3,4&4,high:
+0,med&1,high&3,4&4,high:
+0,med&1,med&3,4&4,high:
+0,med&1,low&3,4&4,high:
+0,low&1,vhigh&3,4&4,high:
+0,low&1,high&3,4&4,high:
+0,low&1,med&3,4&4,high:
+0,low&1,low&3,4&4,high:
+0,vhigh&1,vhigh&3,more&4,high:
+0,vhigh&1,high&3,more&4,high:
+0,vhigh&1,med&3,more&4,high:
+0,vhigh&1,low&3,more&4,high:
+0,high&1,vhigh&3,more&4,high:
+0,high&1,high&3,more&4,high:
+0,high&1,med&3,more&4,high:
+0,high&1,low&3,more&4,high:
+0,med&2,2&3,more&4,high:
+0,med&2,3&3,more&4,high:
+0,med&2,4&3,more&4,high:
+0,med&2,5more&3,more&4,high:
+0,low&1,vhigh&3,more&4,high:
+0,low&1,high&3,more&4,high:
+0,low&1,med&3,more&4,high:
+0,low&1,low&3,more&4,high:
+第5轮迭代,规则0应该为:叶子节点
+第5轮迭代,规则1应该为:叶子节点
+第5轮迭代,规则2应该选择的属性为：doors
+第5轮迭代,规则3应该选择的属性为：doors
+第5轮迭代,规则4应该选择的属性为：maint
+第5轮迭代,规则5应该选择的属性为：maint
+第5轮迭代,规则6应该选择的属性为：maint
+第5轮迭代,规则7应该为:叶子节点
+第5轮迭代,规则8应该选择的属性为：doors
+第5轮迭代,规则9应该为:叶子节点
+第5轮迭代,规则10应该为:叶子节点
+第5轮迭代,规则11应该选择的属性为：doors
+第5轮迭代,规则12应该选择的属性为：doors
+第5轮迭代,规则13应该为:叶子节点
+第5轮迭代,规则14应该选择的属性为：doors
+第5轮迭代,规则15应该选择的属性为：doors
+第5轮迭代,规则16应该为:叶子节点
+第5轮迭代,规则17应该为:叶子节点
+第5轮迭代,规则18应该选择的属性为：doors
+第5轮迭代,规则19应该选择的属性为：doors
+第5轮迭代,规则20应该为:叶子节点
+第5轮迭代,规则21应该选择的属性为：doors
+第5轮迭代,规则22应该选择的属性为：doors
+第5轮迭代,规则23应该选择的属性为：doors
+第5轮迭代,规则24应该选择的属性为：doors
+第5轮迭代,规则25应该选择的属性为：doors
+第5轮迭代,规则26应该为:叶子节点
+第5轮迭代,规则27应该选择的属性为：doors
+第5轮迭代,规则28应该选择的属性为：doors
+第5轮迭代,规则29应该选择的属性为：doors
+第5轮迭代,规则30应该选择的属性为：doors
+第5轮迭代,规则31应该选择的属性为：doors
+第5轮迭代,规则32应该为:叶子节点
+第5轮迭代,规则33应该为:叶子节点
+第5轮迭代,规则34应该为:叶子节点
+第5轮迭代,规则35应该为:叶子节点
+第5轮迭代,规则36应该为:叶子节点
+第5轮迭代,规则37应该为:叶子节点
+第5轮迭代,规则38应该为:叶子节点
+第5轮迭代,规则39应该为:叶子节点
+第5轮迭代,规则40应该为:叶子节点
+第5轮迭代,规则41应该为:叶子节点
+第5轮迭代,规则42应该选择的属性为：doors
+第5轮迭代,规则43应该选择的属性为：doors
+第5轮迭代,规则44应该为:叶子节点
+第5轮迭代,规则45应该选择的属性为：doors
+第5轮迭代,规则46应该选择的属性为：doors
+第5轮迭代,规则47应该选择的属性为：doors
+第5轮迭代,规则48应该为:叶子节点
+第5轮迭代,规则49应该为:叶子节点
+第5轮迭代,规则50应该为:叶子节点
+第5轮迭代,规则51应该选择的属性为：doors
+第5轮迭代,规则52应该为:叶子节点
+第5轮迭代,规则53应该选择的属性为：doors
+第5轮迭代,规则54应该为:叶子节点
+第5轮迭代,规则55应该选择的属性为：doors
+第5轮迭代,规则56应该选择的属性为：maint
+第5轮迭代,规则57应该选择的属性为：maint
+第5轮迭代,规则58应该选择的属性为：maint
+第5轮迭代,规则59应该为:叶子节点
+第5轮迭代,规则60应该选择的属性为：doors
+第5轮迭代,规则61应该选择的属性为：doors
+第5轮迭代,规则62应该选择的属性为：doors
+第5轮迭代,规则63应该选择的属性为：doors
+新一次迭代规则队列长度为：148
+下一次迭代使用的规则：
+0,vhigh&1,med&2,2&3,4&4,med:
+0,vhigh&1,med&2,3&3,4&4,med:
+0,vhigh&1,med&2,4&3,4&4,med:
+0,vhigh&1,med&2,5more&3,4&4,med:
+0,vhigh&1,low&2,2&3,4&4,med:
+0,vhigh&1,low&2,3&3,4&4,med:
+0,vhigh&1,low&2,4&3,4&4,med:
+0,vhigh&1,low&2,5more&3,4&4,med:
+0,high&1,vhigh&2,2&3,4&4,med:
+0,high&1,high&2,2&3,4&4,med:
+0,high&1,med&2,2&3,4&4,med:
+0,high&1,low&2,2&3,4&4,med:
+0,high&1,vhigh&2,3&3,4&4,med:
+0,high&1,high&2,3&3,4&4,med:
+0,high&1,med&2,3&3,4&4,med:
+0,high&1,low&2,3&3,4&4,med:
+0,high&1,vhigh&2,4&3,4&4,med:
+0,high&1,high&2,4&3,4&4,med:
+0,high&1,med&2,4&3,4&4,med:
+0,high&1,low&2,4&3,4&4,med:
+0,med&1,vhigh&2,2&3,4&4,med:
+0,med&1,vhigh&2,3&3,4&4,med:
+0,med&1,vhigh&2,4&3,4&4,med:
+0,med&1,vhigh&2,5more&3,4&4,med:
+0,med&1,low&2,2&3,4&4,med:
+0,med&1,low&2,3&3,4&4,med:
+0,med&1,low&2,4&3,4&4,med:
+0,med&1,low&2,5more&3,4&4,med:
+0,low&1,vhigh&2,2&3,4&4,med:
+0,low&1,vhigh&2,3&3,4&4,med:
+0,low&1,vhigh&2,4&3,4&4,med:
+0,low&1,vhigh&2,5more&3,4&4,med:
+0,low&1,med&2,2&3,4&4,med:
+0,low&1,med&2,3&3,4&4,med:
+0,low&1,med&2,4&3,4&4,med:
+0,low&1,med&2,5more&3,4&4,med:
+0,low&1,low&2,2&3,4&4,med:
+0,low&1,low&2,3&3,4&4,med:
+0,low&1,low&2,4&3,4&4,med:
+0,low&1,low&2,5more&3,4&4,med:
+0,med&1,vhigh&2,2&3,more&4,med:
+0,med&1,vhigh&2,3&3,more&4,med:
+0,med&1,vhigh&2,4&3,more&4,med:
+0,med&1,vhigh&2,5more&3,more&4,med:
+0,low&1,vhigh&2,2&3,more&4,med:
+0,low&1,vhigh&2,3&3,more&4,med:
+0,low&1,vhigh&2,4&3,more&4,med:
+0,low&1,vhigh&2,5more&3,more&4,med:
+0,high&1,high&2,2&3,more&4,med:
+0,high&1,high&2,3&3,more&4,med:
+0,high&1,high&2,4&3,more&4,med:
+0,high&1,high&2,5more&3,more&4,med:
+0,med&1,high&2,2&3,more&4,med:
+0,med&1,high&2,3&3,more&4,med:
+0,med&1,high&2,4&3,more&4,med:
+0,med&1,high&2,5more&3,more&4,med:
+0,low&1,high&2,2&3,more&4,med:
+0,low&1,high&2,3&3,more&4,med:
+0,low&1,high&2,4&3,more&4,med:
+0,low&1,high&2,5more&3,more&4,med:
+0,vhigh&1,med&2,2&3,more&4,med:
+0,vhigh&1,med&2,3&3,more&4,med:
+0,vhigh&1,med&2,4&3,more&4,med:
+0,vhigh&1,med&2,5more&3,more&4,med:
+0,high&1,med&2,2&3,more&4,med:
+0,high&1,med&2,3&3,more&4,med:
+0,high&1,med&2,4&3,more&4,med:
+0,high&1,med&2,5more&3,more&4,med:
+0,low&1,med&2,2&3,more&4,med:
+0,low&1,med&2,3&3,more&4,med:
+0,low&1,med&2,4&3,more&4,med:
+0,low&1,med&2,5more&3,more&4,med:
+0,vhigh&1,low&2,2&3,more&4,med:
+0,vhigh&1,low&2,3&3,more&4,med:
+0,vhigh&1,low&2,4&3,more&4,med:
+0,vhigh&1,low&2,5more&3,more&4,med:
+0,high&1,low&2,2&3,more&4,med:
+0,high&1,low&2,3&3,more&4,med:
+0,high&1,low&2,4&3,more&4,med:
+0,high&1,low&2,5more&3,more&4,med:
+0,med&1,low&2,2&3,more&4,med:
+0,med&1,low&2,3&3,more&4,med:
+0,med&1,low&2,4&3,more&4,med:
+0,med&1,low&2,5more&3,more&4,med:
+0,low&1,low&2,2&3,more&4,med:
+0,low&1,low&2,3&3,more&4,med:
+0,low&1,low&2,4&3,more&4,med:
+0,low&1,low&2,5more&3,more&4,med:
+0,med&1,med&2,2&3,4&4,high:
+0,med&1,med&2,3&3,4&4,high:
+0,med&1,med&2,4&3,4&4,high:
+0,med&1,med&2,5more&3,4&4,high:
+0,med&1,low&2,2&3,4&4,high:
+0,med&1,low&2,3&3,4&4,high:
+0,med&1,low&2,4&3,4&4,high:
+0,med&1,low&2,5more&3,4&4,high:
+0,low&1,high&2,2&3,4&4,high:
+0,low&1,high&2,3&3,4&4,high:
+0,low&1,high&2,4&3,4&4,high:
+0,low&1,high&2,5more&3,4&4,high:
+0,low&1,med&2,2&3,4&4,high:
+0,low&1,med&2,3&3,4&4,high:
+0,low&1,med&2,4&3,4&4,high:
+0,low&1,med&2,5more&3,4&4,high:
+0,low&1,low&2,2&3,4&4,high:
+0,low&1,low&2,3&3,4&4,high:
+0,low&1,low&2,4&3,4&4,high:
+0,low&1,low&2,5more&3,4&4,high:
+0,vhigh&1,low&2,2&3,more&4,high:
+0,vhigh&1,low&2,3&3,more&4,high:
+0,vhigh&1,low&2,4&3,more&4,high:
+0,vhigh&1,low&2,5more&3,more&4,high:
+0,high&1,high&2,2&3,more&4,high:
+0,high&1,high&2,3&3,more&4,high:
+0,high&1,high&2,4&3,more&4,high:
+0,high&1,high&2,5more&3,more&4,high:
+0,high&1,low&2,2&3,more&4,high:
+0,high&1,low&2,3&3,more&4,high:
+0,high&1,low&2,4&3,more&4,high:
+0,high&1,low&2,5more&3,more&4,high:
+0,med&1,vhigh&2,2&3,more&4,high:
+0,med&1,high&2,2&3,more&4,high:
+0,med&1,med&2,2&3,more&4,high:
+0,med&1,low&2,2&3,more&4,high:
+0,med&1,vhigh&2,3&3,more&4,high:
+0,med&1,high&2,3&3,more&4,high:
+0,med&1,med&2,3&3,more&4,high:
+0,med&1,low&2,3&3,more&4,high:
+0,med&1,vhigh&2,4&3,more&4,high:
+0,med&1,high&2,4&3,more&4,high:
+0,med&1,med&2,4&3,more&4,high:
+0,med&1,low&2,4&3,more&4,high:
+0,low&1,vhigh&2,2&3,more&4,high:
+0,low&1,vhigh&2,3&3,more&4,high:
+0,low&1,vhigh&2,4&3,more&4,high:
+0,low&1,vhigh&2,5more&3,more&4,high:
+0,low&1,high&2,2&3,more&4,high:
+0,low&1,high&2,3&3,more&4,high:
+0,low&1,high&2,4&3,more&4,high:
+0,low&1,high&2,5more&3,more&4,high:
+0,low&1,med&2,2&3,more&4,high:
+0,low&1,med&2,3&3,more&4,high:
+0,low&1,med&2,4&3,more&4,high:
+0,low&1,med&2,5more&3,more&4,high:
+0,low&1,low&2,2&3,more&4,high:
+0,low&1,low&2,3&3,more&4,high:
+0,low&1,low&2,4&3,more&4,high:
+0,low&1,low&2,5more&3,more&4,high:
+第6轮迭代,规则0应该为:叶子节点
+第6轮迭代,规则1应该为:叶子节点
+第6轮迭代,规则2应该为:叶子节点
+第6轮迭代,规则3应该为:叶子节点
+第6轮迭代,规则4应该为:叶子节点
+第6轮迭代,规则5应该为:叶子节点
+第6轮迭代,规则6应该为:叶子节点
+第6轮迭代,规则7应该为:叶子节点
+第6轮迭代,规则8应该为:叶子节点
+第6轮迭代,规则9应该为:叶子节点
+第6轮迭代,规则10应该为:叶子节点
+第6轮迭代,规则11应该为:叶子节点
+第6轮迭代,规则12应该为:叶子节点
+第6轮迭代,规则13应该为:叶子节点
+第6轮迭代,规则14应该为:叶子节点
+第6轮迭代,规则15应该为:叶子节点
+第6轮迭代,规则16应该为:叶子节点
+第6轮迭代,规则17应该为:叶子节点
+第6轮迭代,规则18应该为:叶子节点
+第6轮迭代,规则19应该为:叶子节点
+第6轮迭代,规则20应该为:叶子节点
+第6轮迭代,规则21应该为:叶子节点
+第6轮迭代,规则22应该为:叶子节点
+第6轮迭代,规则23应该为:叶子节点
+第6轮迭代,规则25应该为:叶子节点
+第6轮迭代,规则26应该为:叶子节点
+第6轮迭代,规则27应该为:叶子节点
+第6轮迭代,规则29应该为:叶子节点
+第6轮迭代,规则30应该为:叶子节点
+第6轮迭代,规则31应该为:叶子节点
+第6轮迭代,规则32应该为:叶子节点
+第6轮迭代,规则34应该为:叶子节点
+第6轮迭代,规则35应该为:叶子节点
+第6轮迭代,规则36应该为:叶子节点
+第6轮迭代,规则37应该为:叶子节点
+第6轮迭代,规则38应该为:叶子节点
+第6轮迭代,规则39应该为:叶子节点
+第6轮迭代,规则40应该为:叶子节点
+第6轮迭代,规则41应该为:叶子节点
+第6轮迭代,规则42应该为:叶子节点
+第6轮迭代,规则43应该为:叶子节点
+第6轮迭代,规则44应该为:叶子节点
+第6轮迭代,规则45应该为:叶子节点
+第6轮迭代,规则46应该为:叶子节点
+第6轮迭代,规则47应该为:叶子节点
+第6轮迭代,规则48应该为:叶子节点
+第6轮迭代,规则49应该为:叶子节点
+第6轮迭代,规则50应该为:叶子节点
+第6轮迭代,规则51应该为:叶子节点
+第6轮迭代,规则52应该为:叶子节点
+第6轮迭代,规则53应该为:叶子节点
+第6轮迭代,规则54应该为:叶子节点
+第6轮迭代,规则55应该为:叶子节点
+第6轮迭代,规则56应该为:叶子节点
+第6轮迭代,规则57应该为:叶子节点
+第6轮迭代,规则58应该为:叶子节点
+第6轮迭代,规则59应该为:叶子节点
+第6轮迭代,规则60应该为:叶子节点
+第6轮迭代,规则63应该为:叶子节点
+第6轮迭代,规则64应该为:叶子节点
+第6轮迭代,规则65应该为:叶子节点
+第6轮迭代,规则66应该为:叶子节点
+第6轮迭代,规则67应该为:叶子节点
+第6轮迭代,规则68应该为:叶子节点
+第6轮迭代,规则70应该为:叶子节点
+第6轮迭代,规则71应该为:叶子节点
+第6轮迭代,规则72应该为:叶子节点
+第6轮迭代,规则73应该为:叶子节点
+第6轮迭代,规则74应该为:叶子节点
+第6轮迭代,规则76应该为:叶子节点
+第6轮迭代,规则77应该为:叶子节点
+第6轮迭代,规则78应该为:叶子节点
+第6轮迭代,规则79应该为:叶子节点
+第6轮迭代,规则80应该为:叶子节点
+第6轮迭代,规则81应该为:叶子节点
+第6轮迭代,规则82应该为:叶子节点
+第6轮迭代,规则83应该为:叶子节点
+第6轮迭代,规则84应该为:叶子节点
+第6轮迭代,规则85应该为:叶子节点
+第6轮迭代,规则86应该为:叶子节点
+第6轮迭代,规则88应该为:叶子节点
+第6轮迭代,规则90应该为:叶子节点
+第6轮迭代,规则91应该为:叶子节点
+第6轮迭代,规则92应该为:叶子节点
+第6轮迭代,规则93应该为:叶子节点
+第6轮迭代,规则94应该为:叶子节点
+第6轮迭代,规则95应该为:叶子节点
+第6轮迭代,规则96应该为:叶子节点
+第6轮迭代,规则97应该为:叶子节点
+第6轮迭代,规则98应该为:叶子节点
+第6轮迭代,规则99应该为:叶子节点
+第6轮迭代,规则100应该为:叶子节点
+第6轮迭代,规则101应该为:叶子节点
+第6轮迭代,规则103应该为:叶子节点
+第6轮迭代,规则104应该为:叶子节点
+第6轮迭代,规则105应该为:叶子节点
+第6轮迭代,规则107应该为:叶子节点
+第6轮迭代,规则108应该为:叶子节点
+第6轮迭代,规则110应该为:叶子节点
+第6轮迭代,规则111应该为:叶子节点
+第6轮迭代,规则112应该为:叶子节点
+第6轮迭代,规则115应该为:叶子节点
+第6轮迭代,规则116应该为:叶子节点
+第6轮迭代,规则117应该为:叶子节点
+第6轮迭代,规则118应该为:叶子节点
+第6轮迭代,规则119应该为:叶子节点
+第6轮迭代,规则120应该为:叶子节点
+第6轮迭代,规则121应该为:叶子节点
+第6轮迭代,规则122应该为:叶子节点
+第6轮迭代,规则123应该为:叶子节点
+第6轮迭代,规则124应该为:叶子节点
+第6轮迭代,规则125应该为:叶子节点
+第6轮迭代,规则126应该为:叶子节点
+第6轮迭代,规则127应该为:叶子节点
+第6轮迭代,规则128应该为:叶子节点
+第6轮迭代,规则129应该为:叶子节点
+第6轮迭代,规则130应该为:叶子节点
+第6轮迭代,规则131应该为:叶子节点
+第6轮迭代,规则132应该为:叶子节点
+第6轮迭代,规则133应该为:叶子节点
+第6轮迭代,规则134应该为:叶子节点
+第6轮迭代,规则135应该为:叶子节点
+第6轮迭代,规则136应该为:叶子节点
+第6轮迭代,规则137应该为:叶子节点
+第6轮迭代,规则139应该为:叶子节点
+第6轮迭代,规则140应该为:叶子节点
+第6轮迭代,规则141应该为:叶子节点
+第6轮迭代,规则142应该为:叶子节点
+第6轮迭代,规则144应该为:叶子节点
+第6轮迭代,规则145应该为:叶子节点
+第6轮迭代,规则146应该为:叶子节点
+第6轮迭代,规则147应该为:叶子节点
+新一次迭代规则队列长度为：0
+下一次迭代使用的规则：
+
+****************************
+********* 程序结束！ *********
+****************************
+最终的规则为：
+  4,low:unacc
+  3,2&4,med:unacc
+  3,2&4,high:unacc
+  0,vhigh&1,vhigh&3,4&4,med:unacc
+  0,vhigh&1,high&3,4&4,med:unacc
+  0,high&2,5more&3,4&4,med:unacc
+  0,med&1,high&3,4&4,med:acc
+  0,med&1,med&3,4&4,med:acc
+  0,low&1,high&3,4&4,med:acc
+  0,vhigh&1,vhigh&3,more&4,med:unacc
+  0,high&1,vhigh&3,more&4,med:unacc
+  0,vhigh&1,high&3,more&4,med:unacc
+  0,med&1,med&3,more&4,med:acc
+  0,vhigh&1,vhigh&3,4&4,high:unacc
+  0,vhigh&1,high&3,4&4,high:unacc
+  0,vhigh&1,med&3,4&4,high:acc
+  0,vhigh&1,low&3,4&4,high:acc
+  0,high&1,vhigh&3,4&4,high:unacc
+  0,high&1,high&3,4&4,high:acc
+  0,high&1,med&3,4&4,high:acc
+  0,high&1,low&3,4&4,high:acc
+  0,med&1,vhigh&3,4&4,high:acc
+  0,med&1,high&3,4&4,high:acc
+  0,low&1,vhigh&3,4&4,high:acc
+  0,vhigh&1,vhigh&3,more&4,high:unacc
+  0,vhigh&1,high&3,more&4,high:unacc
+  0,vhigh&1,med&3,more&4,high:acc
+  0,high&1,vhigh&3,more&4,high:unacc
+  0,high&1,med&3,more&4,high:acc
+  0,med&2,5more&3,more&4,high:acc
+  0,vhigh&1,med&2,2&3,4&4,med:unacc
+  0,vhigh&1,med&2,3&3,4&4,med:acc
+  0,vhigh&1,med&2,4&3,4&4,med:unacc
+  0,vhigh&1,med&2,5more&3,4&4,med:unacc
+  0,vhigh&1,low&2,2&3,4&4,med:unacc
+  0,vhigh&1,low&2,3&3,4&4,med:unacc
+  0,vhigh&1,low&2,4&3,4&4,med:acc
+  0,vhigh&1,low&2,5more&3,4&4,med:unacc
+  0,high&1,vhigh&2,2&3,4&4,med:unacc
+  0,high&1,high&2,2&3,4&4,med:unacc
+  0,high&1,med&2,2&3,4&4,med:unacc
+  0,high&1,low&2,2&3,4&4,med:acc
+  0,high&1,vhigh&2,3&3,4&4,med:unacc
+  0,high&1,high&2,3&3,4&4,med:unacc
+  0,high&1,med&2,3&3,4&4,med:unacc
+  0,high&1,low&2,3&3,4&4,med:unacc
+  0,high&1,vhigh&2,4&3,4&4,med:unacc
+  0,high&1,high&2,4&3,4&4,med:unacc
+  0,high&1,med&2,4&3,4&4,med:acc
+  0,high&1,low&2,4&3,4&4,med:acc
+  0,med&1,vhigh&2,2&3,4&4,med:unacc
+  0,med&1,vhigh&2,3&3,4&4,med:unacc
+  0,med&1,vhigh&2,4&3,4&4,med:acc
+  0,med&1,vhigh&2,5more&3,4&4,med:unacc
+  0,med&1,low&2,3&3,4&4,med:good
+  0,med&1,low&2,4&3,4&4,med:acc
+  0,med&1,low&2,5more&3,4&4,med:good
+  0,low&1,vhigh&2,3&3,4&4,med:unacc
+  0,low&1,vhigh&2,4&3,4&4,med:acc
+  0,low&1,vhigh&2,5more&3,4&4,med:acc
+  0,low&1,med&2,2&3,4&4,med:acc
+  0,low&1,med&2,4&3,4&4,med:good
+  0,low&1,med&2,5more&3,4&4,med:good
+  0,low&1,low&2,2&3,4&4,med:acc
+  0,low&1,low&2,3&3,4&4,med:acc
+  0,low&1,low&2,4&3,4&4,med:good
+  0,low&1,low&2,5more&3,4&4,med:acc
+  0,med&1,vhigh&2,2&3,more&4,med:unacc
+  0,med&1,vhigh&2,3&3,more&4,med:acc
+  0,med&1,vhigh&2,4&3,more&4,med:unacc
+  0,med&1,vhigh&2,5more&3,more&4,med:acc
+  0,low&1,vhigh&2,2&3,more&4,med:acc
+  0,low&1,vhigh&2,3&3,more&4,med:acc
+  0,low&1,vhigh&2,4&3,more&4,med:acc
+  0,low&1,vhigh&2,5more&3,more&4,med:acc
+  0,high&1,high&2,2&3,more&4,med:unacc
+  0,high&1,high&2,3&3,more&4,med:acc
+  0,high&1,high&2,4&3,more&4,med:unacc
+  0,high&1,high&2,5more&3,more&4,med:acc
+  0,med&1,high&2,2&3,more&4,med:unacc
+  0,med&1,high&2,3&3,more&4,med:unacc
+  0,med&1,high&2,4&3,more&4,med:acc
+  0,med&1,high&2,5more&3,more&4,med:acc
+  0,low&1,high&2,2&3,more&4,med:acc
+  0,low&1,high&2,3&3,more&4,med:acc
+  0,low&1,high&2,4&3,more&4,med:acc
+  0,low&1,high&2,5more&3,more&4,med:acc
+  0,vhigh&1,med&2,2&3,more&4,med:unacc
+  0,vhigh&1,med&2,5more&3,more&4,med:acc
+  0,high&1,med&2,2&3,more&4,med:unacc
+  0,high&1,med&2,3&3,more&4,med:acc
+  0,high&1,med&2,4&3,more&4,med:acc
+  0,high&1,med&2,5more&3,more&4,med:acc
+  0,low&1,med&2,2&3,more&4,med:good
+  0,low&1,med&2,4&3,more&4,med:good
+  0,low&1,med&2,5more&3,more&4,med:good
+  0,vhigh&1,low&2,2&3,more&4,med:unacc
+  0,vhigh&1,low&2,3&3,more&4,med:acc
+  0,vhigh&1,low&2,4&3,more&4,med:unacc
+  0,high&1,low&2,2&3,more&4,med:unacc
+  0,high&1,low&2,3&3,more&4,med:unacc
+  0,high&1,low&2,4&3,more&4,med:acc
+  0,high&1,low&2,5more&3,more&4,med:acc
+  0,med&1,low&2,2&3,more&4,med:good
+  0,med&1,low&2,3&3,more&4,med:good
+  0,med&1,low&2,4&3,more&4,med:acc
+  0,med&1,low&2,5more&3,more&4,med:acc
+  0,low&1,low&2,2&3,more&4,med:acc
+  0,low&1,low&2,3&3,more&4,med:good
+  0,low&1,low&2,4&3,more&4,med:good
+  0,med&1,med&2,2&3,4&4,high:acc
+  0,med&1,med&2,4&3,4&4,high:acc
+  0,med&1,med&2,5more&3,4&4,high:vgood
+  0,med&1,low&2,2&3,4&4,high:good
+  0,med&1,low&2,3&3,4&4,high:vgood
+  0,med&1,low&2,4&3,4&4,high:vgood
+  0,med&1,low&2,5more&3,4&4,high:vgood
+  0,low&1,high&2,2&3,4&4,high:acc
+  0,low&1,high&2,3&3,4&4,high:acc
+  0,low&1,high&2,4&3,4&4,high:vgood
+  0,low&1,high&2,5more&3,4&4,high:vgood
+  0,low&1,med&2,2&3,4&4,high:good
+  0,low&1,med&2,3&3,4&4,high:good
+  0,low&1,med&2,5more&3,4&4,high:vgood
+  0,low&1,low&2,2&3,4&4,high:good
+  0,low&1,low&2,3&3,4&4,high:vgood
+  0,low&1,low&2,5more&3,4&4,high:vgood
+  0,vhigh&1,low&2,2&3,more&4,high:acc
+  0,vhigh&1,low&2,4&3,more&4,high:acc
+  0,vhigh&1,low&2,5more&3,more&4,high:acc
+  0,high&1,high&2,2&3,more&4,high:unacc
+  0,high&1,high&2,5more&3,more&4,high:acc
+  0,high&1,low&2,2&3,more&4,high:unacc
+  0,high&1,low&2,3&3,more&4,high:acc
+  0,high&1,low&2,4&3,more&4,high:acc
+  0,high&1,low&2,5more&3,more&4,high:acc
+  0,med&1,vhigh&2,2&3,more&4,high:acc
+  0,med&1,high&2,2&3,more&4,high:acc
+  0,med&1,med&2,2&3,more&4,high:unacc
+  0,med&1,low&2,2&3,more&4,high:unacc
+  0,med&1,vhigh&2,3&3,more&4,high:acc
+  0,med&1,high&2,3&3,more&4,high:acc
+  0,med&1,med&2,3&3,more&4,high:acc
+  0,med&1,low&2,3&3,more&4,high:good
+  0,med&1,vhigh&2,4&3,more&4,high:acc
+  0,med&1,high&2,4&3,more&4,high:acc
+  0,med&1,med&2,4&3,more&4,high:vgood
+  0,med&1,low&2,4&3,more&4,high:vgood
+  0,low&1,vhigh&2,2&3,more&4,high:unacc
+  0,low&1,vhigh&2,3&3,more&4,high:acc
+  0,low&1,vhigh&2,4&3,more&4,high:acc
+  0,low&1,vhigh&2,5more&3,more&4,high:acc
+  0,low&1,high&2,2&3,more&4,high:acc
+  0,low&1,high&2,3&3,more&4,high:vgood
+  0,low&1,high&2,5more&3,more&4,high:vgood
+  0,low&1,med&2,2&3,more&4,high:vgood
+  0,low&1,med&2,3&3,more&4,high:vgood
+  0,low&1,med&2,4&3,more&4,high:good
+  0,low&1,low&2,2&3,more&4,high:good
+  0,low&1,low&2,3&3,more&4,high:vgood
+  0,low&1,low&2,4&3,more&4,high:vgood
+  0,low&1,low&2,5more&3,more&4,high:vgood
+第1轮迭代,规则0应该选择的属性为：safety
+新一次迭代规则队列长度为：3
+下一次迭代使用的规则：
+4,low:
+4,med:
+4,high:
+第2轮迭代,规则0应该为:叶子节点
+第2轮迭代,规则1应该选择的属性为：persons
+第2轮迭代,规则2应该选择的属性为：persons
+新一次迭代规则队列长度为：6
+下一次迭代使用的规则：
+3,2&4,med:
+3,4&4,med:
+3,more&4,med:
+3,2&4,high:
+3,4&4,high:
+3,more&4,high:
+第3轮迭代,规则0应该为:叶子节点
+第3轮迭代,规则1应该选择的属性为：buying
+第3轮迭代,规则2应该选择的属性为：maint
+第3轮迭代,规则3应该为:叶子节点
+第3轮迭代,规则4应该选择的属性为：buying
+第3轮迭代,规则5应该选择的属性为：buying
+新一次迭代规则队列长度为：16
+下一次迭代使用的规则：
+0,vhigh&3,4&4,med:
+0,high&3,4&4,med:
+0,med&3,4&4,med:
+0,low&3,4&4,med:
+1,vhigh&3,more&4,med:
+1,high&3,more&4,med:
+1,med&3,more&4,med:
+1,low&3,more&4,med:
+0,vhigh&3,4&4,high:
+0,high&3,4&4,high:
+0,med&3,4&4,high:
+0,low&3,4&4,high:
+0,vhigh&3,more&4,high:
+0,high&3,more&4,high:
+0,med&3,more&4,high:
+0,low&3,more&4,high:
+第4轮迭代,规则0应该选择的属性为：maint
+第4轮迭代,规则1应该选择的属性为：maint
+第4轮迭代,规则2应该选择的属性为：maint
+第4轮迭代,规则3应该选择的属性为：maint
+第4轮迭代,规则4应该选择的属性为：buying
+第4轮迭代,规则5应该选择的属性为：buying
+第4轮迭代,规则6应该选择的属性为：buying
+第4轮迭代,规则7应该选择的属性为：buying
+第4轮迭代,规则8应该选择的属性为：maint
+第4轮迭代,规则9应该选择的属性为：maint
+第4轮迭代,规则10应该选择的属性为：maint
+第4轮迭代,规则11应该选择的属性为：maint
+第4轮迭代,规则12应该选择的属性为：maint
+第4轮迭代,规则13应该选择的属性为：maint
+第4轮迭代,规则14应该选择的属性为：maint
+第4轮迭代,规则15应该选择的属性为：doors
+新一次迭代规则队列长度为：64
+下一次迭代使用的规则：
+0,vhigh&1,vhigh&3,4&4,med:
+0,vhigh&1,high&3,4&4,med:
+0,vhigh&1,med&3,4&4,med:
+0,vhigh&1,low&3,4&4,med:
+0,high&1,vhigh&3,4&4,med:
+0,high&1,high&3,4&4,med:
+0,high&1,med&3,4&4,med:
+0,high&1,low&3,4&4,med:
+0,med&1,vhigh&3,4&4,med:
+0,med&1,high&3,4&4,med:
+0,med&1,med&3,4&4,med:
+0,med&1,low&3,4&4,med:
+0,low&1,vhigh&3,4&4,med:
+0,low&1,high&3,4&4,med:
+0,low&1,med&3,4&4,med:
+0,low&1,low&3,4&4,med:
+0,vhigh&1,vhigh&3,more&4,med:
+0,high&1,vhigh&3,more&4,med:
+0,med&1,vhigh&3,more&4,med:
+0,low&1,vhigh&3,more&4,med:
+0,vhigh&1,high&3,more&4,med:
+0,high&1,high&3,more&4,med:
+0,med&1,high&3,more&4,med:
+0,low&1,high&3,more&4,med:
+0,vhigh&1,med&3,more&4,med:
+0,high&1,med&3,more&4,med:
+0,med&1,med&3,more&4,med:
+0,low&1,med&3,more&4,med:
+0,vhigh&1,low&3,more&4,med:
+0,high&1,low&3,more&4,med:
+0,med&1,low&3,more&4,med:
+0,low&1,low&3,more&4,med:
+0,vhigh&1,vhigh&3,4&4,high:
+0,vhigh&1,high&3,4&4,high:
+0,vhigh&1,med&3,4&4,high:
+0,vhigh&1,low&3,4&4,high:
+0,high&1,vhigh&3,4&4,high:
+0,high&1,high&3,4&4,high:
+0,high&1,med&3,4&4,high:
+0,high&1,low&3,4&4,high:
+0,med&1,vhigh&3,4&4,high:
+0,med&1,high&3,4&4,high:
+0,med&1,med&3,4&4,high:
+0,med&1,low&3,4&4,high:
+0,low&1,vhigh&3,4&4,high:
+0,low&1,high&3,4&4,high:
+0,low&1,med&3,4&4,high:
+0,low&1,low&3,4&4,high:
+0,vhigh&1,vhigh&3,more&4,high:
+0,vhigh&1,high&3,more&4,high:
+0,vhigh&1,med&3,more&4,high:
+0,vhigh&1,low&3,more&4,high:
+0,high&1,vhigh&3,more&4,high:
+0,high&1,high&3,more&4,high:
+0,high&1,med&3,more&4,high:
+0,high&1,low&3,more&4,high:
+0,med&1,vhigh&3,more&4,high:
+0,med&1,high&3,more&4,high:
+0,med&1,med&3,more&4,high:
+0,med&1,low&3,more&4,high:
+0,low&2,2&3,more&4,high:
+0,low&2,3&3,more&4,high:
+0,low&2,4&3,more&4,high:
+0,low&2,5more&3,more&4,high:
+第5轮迭代,规则0应该为:叶子节点
+第5轮迭代,规则1应该为:叶子节点
+第5轮迭代,规则2应该选择的属性为：doors
+第5轮迭代,规则3应该选择的属性为：doors
+第5轮迭代,规则4应该为:叶子节点
+第5轮迭代,规则5应该为:叶子节点
+第5轮迭代,规则6应该选择的属性为：doors
+第5轮迭代,规则7应该选择的属性为：doors
+第5轮迭代,规则8应该为:叶子节点
+第5轮迭代,规则9应该选择的属性为：doors
+第5轮迭代,规则10应该为:叶子节点
+第5轮迭代,规则11应该选择的属性为：doors
+第5轮迭代,规则12应该选择的属性为：doors
+第5轮迭代,规则13应该为:叶子节点
+第5轮迭代,规则14应该选择的属性为：doors
+第5轮迭代,规则15应该选择的属性为：doors
+第5轮迭代,规则16应该为:叶子节点
+第5轮迭代,规则17应该为:叶子节点
+第5轮迭代,规则18应该选择的属性为：doors
+第5轮迭代,规则19应该选择的属性为：doors
+第5轮迭代,规则20应该为:叶子节点
+第5轮迭代,规则21应该选择的属性为：doors
+第5轮迭代,规则22应该选择的属性为：doors
+第5轮迭代,规则23应该为:叶子节点
+第5轮迭代,规则24应该选择的属性为：doors
+第5轮迭代,规则25应该选择的属性为：doors
+第5轮迭代,规则26应该为:叶子节点
+第5轮迭代,规则27应该选择的属性为：doors
+第5轮迭代,规则28应该选择的属性为：doors
+第5轮迭代,规则29应该选择的属性为：doors
+第5轮迭代,规则30应该选择的属性为：doors
+第5轮迭代,规则31应该为:叶子节点
+第5轮迭代,规则32应该为:叶子节点
+第5轮迭代,规则33应该为:叶子节点
+第5轮迭代,规则34应该为:叶子节点
+第5轮迭代,规则35应该为:叶子节点
+第5轮迭代,规则36应该为:叶子节点
+第5轮迭代,规则37应该为:叶子节点
+第5轮迭代,规则38应该为:叶子节点
+第5轮迭代,规则39应该为:叶子节点
+第5轮迭代,规则40应该为:叶子节点
+第5轮迭代,规则41应该为:叶子节点
+第5轮迭代,规则42应该选择的属性为：doors
+第5轮迭代,规则43应该选择的属性为：doors
+第5轮迭代,规则44应该为:叶子节点
+第5轮迭代,规则45应该选择的属性为：doors
+第5轮迭代,规则46应该选择的属性为：doors
+第5轮迭代,规则47应该选择的属性为：doors
+第5轮迭代,规则48应该为:叶子节点
+第5轮迭代,规则49应该为:叶子节点
+第5轮迭代,规则50应该选择的属性为：doors
+第5轮迭代,规则51应该为:叶子节点
+第5轮迭代,规则52应该为:叶子节点
+第5轮迭代,规则53应该为:叶子节点
+第5轮迭代,规则54应该选择的属性为：doors
+第5轮迭代,规则55应该为:叶子节点
+第5轮迭代,规则56应该为:叶子节点
+第5轮迭代,规则57应该选择的属性为：doors
+第5轮迭代,规则58应该选择的属性为：doors
+第5轮迭代,规则59应该选择的属性为：doors
+第5轮迭代,规则60应该选择的属性为：maint
+第5轮迭代,规则61应该选择的属性为：maint
+第5轮迭代,规则62应该选择的属性为：maint
+第5轮迭代,规则63应该选择的属性为：maint
+新一次迭代规则队列长度为：132
+下一次迭代使用的规则：
+0,vhigh&1,med&2,2&3,4&4,med:
+0,vhigh&1,med&2,3&3,4&4,med:
+0,vhigh&1,med&2,4&3,4&4,med:
+0,vhigh&1,med&2,5more&3,4&4,med:
+0,vhigh&1,low&2,2&3,4&4,med:
+0,vhigh&1,low&2,3&3,4&4,med:
+0,vhigh&1,low&2,4&3,4&4,med:
+0,vhigh&1,low&2,5more&3,4&4,med:
+0,high&1,med&2,2&3,4&4,med:
+0,high&1,med&2,3&3,4&4,med:
+0,high&1,med&2,4&3,4&4,med:
+0,high&1,med&2,5more&3,4&4,med:
+0,high&1,low&2,2&3,4&4,med:
+0,high&1,low&2,3&3,4&4,med:
+0,high&1,low&2,4&3,4&4,med:
+0,high&1,low&2,5more&3,4&4,med:
+0,med&1,high&2,2&3,4&4,med:
+0,med&1,high&2,3&3,4&4,med:
+0,med&1,high&2,4&3,4&4,med:
+0,med&1,high&2,5more&3,4&4,med:
+0,med&1,low&2,2&3,4&4,med:
+0,med&1,low&2,3&3,4&4,med:
+0,med&1,low&2,4&3,4&4,med:
+0,med&1,low&2,5more&3,4&4,med:
+0,low&1,vhigh&2,2&3,4&4,med:
+0,low&1,vhigh&2,3&3,4&4,med:
+0,low&1,vhigh&2,4&3,4&4,med:
+0,low&1,vhigh&2,5more&3,4&4,med:
+0,low&1,med&2,2&3,4&4,med:
+0,low&1,med&2,3&3,4&4,med:
+0,low&1,med&2,4&3,4&4,med:
+0,low&1,med&2,5more&3,4&4,med:
+0,low&1,low&2,2&3,4&4,med:
+0,low&1,low&2,3&3,4&4,med:
+0,low&1,low&2,4&3,4&4,med:
+0,low&1,low&2,5more&3,4&4,med:
+0,med&1,vhigh&2,2&3,more&4,med:
+0,med&1,vhigh&2,3&3,more&4,med:
+0,med&1,vhigh&2,4&3,more&4,med:
+0,med&1,vhigh&2,5more&3,more&4,med:
+0,low&1,vhigh&2,2&3,more&4,med:
+0,low&1,vhigh&2,3&3,more&4,med:
+0,low&1,vhigh&2,4&3,more&4,med:
+0,low&1,vhigh&2,5more&3,more&4,med:
+0,high&1,high&2,2&3,more&4,med:
+0,high&1,high&2,3&3,more&4,med:
+0,high&1,high&2,4&3,more&4,med:
+0,high&1,high&2,5more&3,more&4,med:
+0,med&1,high&2,2&3,more&4,med:
+0,med&1,high&2,3&3,more&4,med:
+0,med&1,high&2,4&3,more&4,med:
+0,med&1,high&2,5more&3,more&4,med:
+0,vhigh&1,med&2,2&3,more&4,med:
+0,vhigh&1,med&2,3&3,more&4,med:
+0,vhigh&1,med&2,4&3,more&4,med:
+0,vhigh&1,med&2,5more&3,more&4,med:
+0,high&1,med&2,2&3,more&4,med:
+0,high&1,med&2,3&3,more&4,med:
+0,high&1,med&2,4&3,more&4,med:
+0,high&1,med&2,5more&3,more&4,med:
+0,low&1,med&2,2&3,more&4,med:
+0,low&1,med&2,3&3,more&4,med:
+0,low&1,med&2,4&3,more&4,med:
+0,low&1,med&2,5more&3,more&4,med:
+0,vhigh&1,low&2,2&3,more&4,med:
+0,vhigh&1,low&2,3&3,more&4,med:
+0,vhigh&1,low&2,4&3,more&4,med:
+0,vhigh&1,low&2,5more&3,more&4,med:
+0,high&1,low&2,2&3,more&4,med:
+0,high&1,low&2,3&3,more&4,med:
+0,high&1,low&2,4&3,more&4,med:
+0,high&1,low&2,5more&3,more&4,med:
+0,med&1,low&2,2&3,more&4,med:
+0,med&1,low&2,3&3,more&4,med:
+0,med&1,low&2,4&3,more&4,med:
+0,med&1,low&2,5more&3,more&4,med:
+0,med&1,med&2,2&3,4&4,high:
+0,med&1,med&2,3&3,4&4,high:
+0,med&1,med&2,4&3,4&4,high:
+0,med&1,med&2,5more&3,4&4,high:
+0,med&1,low&2,2&3,4&4,high:
+0,med&1,low&2,3&3,4&4,high:
+0,med&1,low&2,4&3,4&4,high:
+0,med&1,low&2,5more&3,4&4,high:
+0,low&1,high&2,2&3,4&4,high:
+0,low&1,high&2,3&3,4&4,high:
+0,low&1,high&2,4&3,4&4,high:
+0,low&1,high&2,5more&3,4&4,high:
+0,low&1,med&2,2&3,4&4,high:
+0,low&1,med&2,3&3,4&4,high:
+0,low&1,med&2,4&3,4&4,high:
+0,low&1,med&2,5more&3,4&4,high:
+0,low&1,low&2,2&3,4&4,high:
+0,low&1,low&2,3&3,4&4,high:
+0,low&1,low&2,4&3,4&4,high:
+0,low&1,low&2,5more&3,4&4,high:
+0,vhigh&1,med&2,2&3,more&4,high:
+0,vhigh&1,med&2,3&3,more&4,high:
+0,vhigh&1,med&2,4&3,more&4,high:
+0,vhigh&1,med&2,5more&3,more&4,high:
+0,high&1,med&2,2&3,more&4,high:
+0,high&1,med&2,3&3,more&4,high:
+0,high&1,med&2,4&3,more&4,high:
+0,high&1,med&2,5more&3,more&4,high:
+0,med&1,high&2,2&3,more&4,high:
+0,med&1,high&2,3&3,more&4,high:
+0,med&1,high&2,4&3,more&4,high:
+0,med&1,high&2,5more&3,more&4,high:
+0,med&1,med&2,2&3,more&4,high:
+0,med&1,med&2,3&3,more&4,high:
+0,med&1,med&2,4&3,more&4,high:
+0,med&1,med&2,5more&3,more&4,high:
+0,med&1,low&2,2&3,more&4,high:
+0,med&1,low&2,3&3,more&4,high:
+0,med&1,low&2,4&3,more&4,high:
+0,med&1,low&2,5more&3,more&4,high:
+0,low&1,vhigh&2,2&3,more&4,high:
+0,low&1,high&2,2&3,more&4,high:
+0,low&1,med&2,2&3,more&4,high:
+0,low&1,low&2,2&3,more&4,high:
+0,low&1,vhigh&2,3&3,more&4,high:
+0,low&1,high&2,3&3,more&4,high:
+0,low&1,med&2,3&3,more&4,high:
+0,low&1,low&2,3&3,more&4,high:
+0,low&1,vhigh&2,4&3,more&4,high:
+0,low&1,high&2,4&3,more&4,high:
+0,low&1,med&2,4&3,more&4,high:
+0,low&1,low&2,4&3,more&4,high:
+0,low&1,vhigh&2,5more&3,more&4,high:
+0,low&1,high&2,5more&3,more&4,high:
+0,low&1,med&2,5more&3,more&4,high:
+0,low&1,low&2,5more&3,more&4,high:
+第6轮迭代,规则0应该为:叶子节点
+第6轮迭代,规则1应该为:叶子节点
+第6轮迭代,规则2应该为:叶子节点
+第6轮迭代,规则3应该为:叶子节点
+第6轮迭代,规则4应该为:叶子节点
+第6轮迭代,规则5应该为:叶子节点
+第6轮迭代,规则6应该为:叶子节点
+第6轮迭代,规则7应该为:叶子节点
+第6轮迭代,规则8应该为:叶子节点
+第6轮迭代,规则9应该为:叶子节点
+第6轮迭代,规则10应该为:叶子节点
+第6轮迭代,规则11应该为:叶子节点
+第6轮迭代,规则12应该为:叶子节点
+第6轮迭代,规则14应该为:叶子节点
+第6轮迭代,规则15应该为:叶子节点
+第6轮迭代,规则16应该为:叶子节点
+第6轮迭代,规则17应该为:叶子节点
+第6轮迭代,规则18应该为:叶子节点
+第6轮迭代,规则20应该为:叶子节点
+第6轮迭代,规则21应该为:叶子节点
+第6轮迭代,规则22应该为:叶子节点
+第6轮迭代,规则23应该为:叶子节点
+第6轮迭代,规则24应该为:叶子节点
+第6轮迭代,规则25应该为:叶子节点
+第6轮迭代,规则27应该为:叶子节点
+第6轮迭代,规则28应该为:叶子节点
+第6轮迭代,规则29应该为:叶子节点
+第6轮迭代,规则30应该为:叶子节点
+第6轮迭代,规则31应该为:叶子节点
+第6轮迭代,规则33应该为:叶子节点
+第6轮迭代,规则34应该为:叶子节点
+第6轮迭代,规则35应该为:叶子节点
+第6轮迭代,规则36应该为:叶子节点
+第6轮迭代,规则37应该为:叶子节点
+第6轮迭代,规则38应该为:叶子节点
+第6轮迭代,规则39应该为:叶子节点
+第6轮迭代,规则40应该为:叶子节点
+第6轮迭代,规则41应该为:叶子节点
+第6轮迭代,规则43应该为:叶子节点
+第6轮迭代,规则44应该为:叶子节点
+第6轮迭代,规则45应该为:叶子节点
+第6轮迭代,规则46应该为:叶子节点
+第6轮迭代,规则49应该为:叶子节点
+第6轮迭代,规则50应该为:叶子节点
+第6轮迭代,规则52应该为:叶子节点
+第6轮迭代,规则53应该为:叶子节点
+第6轮迭代,规则54应该为:叶子节点
+第6轮迭代,规则56应该为:叶子节点
+第6轮迭代,规则57应该为:叶子节点
+第6轮迭代,规则58应该为:叶子节点
+第6轮迭代,规则59应该为:叶子节点
+第6轮迭代,规则60应该为:叶子节点
+第6轮迭代,规则61应该为:叶子节点
+第6轮迭代,规则62应该为:叶子节点
+第6轮迭代,规则63应该为:叶子节点
+第6轮迭代,规则64应该为:叶子节点
+第6轮迭代,规则65应该为:叶子节点
+第6轮迭代,规则66应该为:叶子节点
+第6轮迭代,规则67应该为:叶子节点
+第6轮迭代,规则69应该为:叶子节点
+第6轮迭代,规则70应该为:叶子节点
+第6轮迭代,规则71应该为:叶子节点
+第6轮迭代,规则72应该为:叶子节点
+第6轮迭代,规则73应该为:叶子节点
+第6轮迭代,规则74应该为:叶子节点
+第6轮迭代,规则75应该为:叶子节点
+第6轮迭代,规则76应该为:叶子节点
+第6轮迭代,规则77应该为:叶子节点
+第6轮迭代,规则78应该为:叶子节点
+第6轮迭代,规则79应该为:叶子节点
+第6轮迭代,规则80应该为:叶子节点
+第6轮迭代,规则81应该为:叶子节点
+第6轮迭代,规则82应该为:叶子节点
+第6轮迭代,规则83应该为:叶子节点
+第6轮迭代,规则84应该为:叶子节点
+第6轮迭代,规则86应该为:叶子节点
+第6轮迭代,规则87应该为:叶子节点
+第6轮迭代,规则89应该为:叶子节点
+第6轮迭代,规则90应该为:叶子节点
+第6轮迭代,规则91应该为:叶子节点
+第6轮迭代,规则92应该为:叶子节点
+第6轮迭代,规则93应该为:叶子节点
+第6轮迭代,规则94应该为:叶子节点
+第6轮迭代,规则95应该为:叶子节点
+第6轮迭代,规则96应该为:叶子节点
+第6轮迭代,规则97应该为:叶子节点
+第6轮迭代,规则98应该为:叶子节点
+第6轮迭代,规则100应该为:叶子节点
+第6轮迭代,规则101应该为:叶子节点
+第6轮迭代,规则102应该为:叶子节点
+第6轮迭代,规则103应该为:叶子节点
+第6轮迭代,规则104应该为:叶子节点
+第6轮迭代,规则105应该为:叶子节点
+第6轮迭代,规则106应该为:叶子节点
+第6轮迭代,规则107应该为:叶子节点
+第6轮迭代,规则108应该为:叶子节点
+第6轮迭代,规则109应该为:叶子节点
+第6轮迭代,规则110应该为:叶子节点
+第6轮迭代,规则111应该为:叶子节点
+第6轮迭代,规则112应该为:叶子节点
+第6轮迭代,规则113应该为:叶子节点
+第6轮迭代,规则114应该为:叶子节点
+第6轮迭代,规则115应该为:叶子节点
+第6轮迭代,规则116应该为:叶子节点
+第6轮迭代,规则117应该为:叶子节点
+第6轮迭代,规则118应该为:叶子节点
+第6轮迭代,规则119应该为:叶子节点
+第6轮迭代,规则120应该为:叶子节点
+第6轮迭代,规则121应该为:叶子节点
+第6轮迭代,规则122应该为:叶子节点
+第6轮迭代,规则124应该为:叶子节点
+第6轮迭代,规则125应该为:叶子节点
+第6轮迭代,规则126应该为:叶子节点
+第6轮迭代,规则128应该为:叶子节点
+第6轮迭代,规则129应该为:叶子节点
+第6轮迭代,规则130应该为:叶子节点
+第6轮迭代,规则131应该为:叶子节点
+新一次迭代规则队列长度为：0
+下一次迭代使用的规则：
+
+****************************
+********* 程序结束！ *********
+****************************
+最终的规则为：
+  4,low:unacc
+  3,2&4,med:unacc
+  3,2&4,high:unacc
+  0,vhigh&1,vhigh&3,4&4,med:unacc
+  0,vhigh&1,high&3,4&4,med:unacc
+  0,high&1,vhigh&3,4&4,med:unacc
+  0,high&1,high&3,4&4,med:acc
+  0,med&1,vhigh&3,4&4,med:acc
+  0,med&1,med&3,4&4,med:acc
+  0,low&1,high&3,4&4,med:acc
+  0,vhigh&1,vhigh&3,more&4,med:unacc
+  0,high&1,vhigh&3,more&4,med:unacc
+  0,vhigh&1,high&3,more&4,med:unacc
+  0,low&1,high&3,more&4,med:acc
+  0,med&1,med&3,more&4,med:acc
+  0,low&1,low&3,more&4,med:good
+  0,vhigh&1,vhigh&3,4&4,high:unacc
+  0,vhigh&1,high&3,4&4,high:unacc
+  0,vhigh&1,med&3,4&4,high:acc
+  0,vhigh&1,low&3,4&4,high:acc
+  0,high&1,vhigh&3,4&4,high:unacc
+  0,high&1,high&3,4&4,high:acc
+  0,high&1,med&3,4&4,high:acc
+  0,high&1,low&3,4&4,high:acc
+  0,med&1,vhigh&3,4&4,high:acc
+  0,med&1,high&3,4&4,high:acc
+  0,low&1,vhigh&3,4&4,high:acc
+  0,vhigh&1,vhigh&3,more&4,high:unacc
+  0,vhigh&1,high&3,more&4,high:unacc
+  0,vhigh&1,low&3,more&4,high:acc
+  0,high&1,vhigh&3,more&4,high:unacc
+  0,high&1,high&3,more&4,high:acc
+  0,high&1,low&3,more&4,high:acc
+  0,med&1,vhigh&3,more&4,high:acc
+  0,vhigh&1,med&2,2&3,4&4,med:acc
+  0,vhigh&1,med&2,3&3,4&4,med:acc
+  0,vhigh&1,med&2,4&3,4&4,med:acc
+  0,vhigh&1,med&2,5more&3,4&4,med:acc
+  0,vhigh&1,low&2,2&3,4&4,med:unacc
+  0,vhigh&1,low&2,3&3,4&4,med:unacc
+  0,vhigh&1,low&2,4&3,4&4,med:acc
+  0,vhigh&1,low&2,5more&3,4&4,med:acc
+  0,high&1,med&2,2&3,4&4,med:unacc
+  0,high&1,med&2,3&3,4&4,med:unacc
+  0,high&1,med&2,4&3,4&4,med:unacc
+  0,high&1,med&2,5more&3,4&4,med:acc
+  0,high&1,low&2,2&3,4&4,med:unacc
+  0,high&1,low&2,4&3,4&4,med:acc
+  0,high&1,low&2,5more&3,4&4,med:acc
+  0,med&1,high&2,2&3,4&4,med:unacc
+  0,med&1,high&2,3&3,4&4,med:unacc
+  0,med&1,high&2,4&3,4&4,med:acc
+  0,med&1,low&2,2&3,4&4,med:acc
+  0,med&1,low&2,3&3,4&4,med:good
+  0,med&1,low&2,4&3,4&4,med:good
+  0,med&1,low&2,5more&3,4&4,med:good
+  0,low&1,vhigh&2,2&3,4&4,med:unacc
+  0,low&1,vhigh&2,3&3,4&4,med:acc
+  0,low&1,vhigh&2,5more&3,4&4,med:unacc
+  0,low&1,med&2,2&3,4&4,med:acc
+  0,low&1,med&2,3&3,4&4,med:acc
+  0,low&1,med&2,4&3,4&4,med:good
+  0,low&1,med&2,5more&3,4&4,med:good
+  0,low&1,low&2,3&3,4&4,med:good
+  0,low&1,low&2,4&3,4&4,med:acc
+  0,low&1,low&2,5more&3,4&4,med:good
+  0,med&1,vhigh&2,2&3,more&4,med:unacc
+  0,med&1,vhigh&2,3&3,more&4,med:acc
+  0,med&1,vhigh&2,4&3,more&4,med:unacc
+  0,med&1,vhigh&2,5more&3,more&4,med:acc
+  0,low&1,vhigh&2,2&3,more&4,med:unacc
+  0,low&1,vhigh&2,3&3,more&4,med:acc
+  0,low&1,vhigh&2,5more&3,more&4,med:acc
+  0,high&1,high&2,2&3,more&4,med:acc
+  0,high&1,high&2,3&3,more&4,med:acc
+  0,high&1,high&2,4&3,more&4,med:unacc
+  0,med&1,high&2,3&3,more&4,med:acc
+  0,med&1,high&2,4&3,more&4,med:acc
+  0,vhigh&1,med&2,2&3,more&4,med:unacc
+  0,vhigh&1,med&2,3&3,more&4,med:acc
+  0,vhigh&1,med&2,4&3,more&4,med:unacc
+  0,high&1,med&2,2&3,more&4,med:unacc
+  0,high&1,med&2,3&3,more&4,med:unacc
+  0,high&1,med&2,4&3,more&4,med:acc
+  0,high&1,med&2,5more&3,more&4,med:acc
+  0,low&1,med&2,2&3,more&4,med:acc
+  0,low&1,med&2,3&3,more&4,med:good
+  0,low&1,med&2,4&3,more&4,med:good
+  0,low&1,med&2,5more&3,more&4,med:good
+  0,vhigh&1,low&2,2&3,more&4,med:unacc
+  0,vhigh&1,low&2,3&3,more&4,med:acc
+  0,vhigh&1,low&2,4&3,more&4,med:acc
+  0,vhigh&1,low&2,5more&3,more&4,med:unacc
+  0,high&1,low&2,3&3,more&4,med:acc
+  0,high&1,low&2,4&3,more&4,med:unacc
+  0,high&1,low&2,5more&3,more&4,med:acc
+  0,med&1,low&2,2&3,more&4,med:unacc
+  0,med&1,low&2,3&3,more&4,med:acc
+  0,med&1,low&2,4&3,more&4,med:good
+  0,med&1,low&2,5more&3,more&4,med:good
+  0,med&1,med&2,2&3,4&4,high:vgood
+  0,med&1,med&2,3&3,4&4,high:acc
+  0,med&1,med&2,4&3,4&4,high:vgood
+  0,med&1,med&2,5more&3,4&4,high:vgood
+  0,med&1,low&2,2&3,4&4,high:good
+  0,med&1,low&2,3&3,4&4,high:good
+  0,med&1,low&2,4&3,4&4,high:good
+  0,med&1,low&2,5more&3,4&4,high:vgood
+  0,low&1,high&2,2&3,4&4,high:vgood
+  0,low&1,high&2,4&3,4&4,high:vgood
+  0,low&1,high&2,5more&3,4&4,high:vgood
+  0,low&1,med&2,3&3,4&4,high:good
+  0,low&1,med&2,4&3,4&4,high:vgood
+  0,low&1,med&2,5more&3,4&4,high:vgood
+  0,low&1,low&2,2&3,4&4,high:good
+  0,low&1,low&2,3&3,4&4,high:vgood
+  0,low&1,low&2,4&3,4&4,high:good
+  0,low&1,low&2,5more&3,4&4,high:vgood
+  0,vhigh&1,med&2,2&3,more&4,high:unacc
+  0,vhigh&1,med&2,3&3,more&4,high:acc
+  0,vhigh&1,med&2,4&3,more&4,high:acc
+  0,high&1,med&2,2&3,more&4,high:acc
+  0,high&1,med&2,3&3,more&4,high:acc
+  0,high&1,med&2,4&3,more&4,high:acc
+  0,high&1,med&2,5more&3,more&4,high:acc
+  0,med&1,high&2,2&3,more&4,high:acc
+  0,med&1,high&2,3&3,more&4,high:acc
+  0,med&1,high&2,4&3,more&4,high:acc
+  0,med&1,high&2,5more&3,more&4,high:acc
+  0,med&1,med&2,2&3,more&4,high:vgood
+  0,med&1,med&2,3&3,more&4,high:vgood
+  0,med&1,med&2,4&3,more&4,high:vgood
+  0,med&1,med&2,5more&3,more&4,high:vgood
+  0,med&1,low&2,2&3,more&4,high:good
+  0,med&1,low&2,3&3,more&4,high:vgood
+  0,med&1,low&2,4&3,more&4,high:vgood
+  0,med&1,low&2,5more&3,more&4,high:vgood
+  0,low&1,vhigh&2,2&3,more&4,high:unacc
+  0,low&1,high&2,2&3,more&4,high:vgood
+  0,low&1,med&2,2&3,more&4,high:good
+  0,low&1,low&2,2&3,more&4,high:unacc
+  0,low&1,vhigh&2,3&3,more&4,high:acc
+  0,low&1,high&2,3&3,more&4,high:acc
+  0,low&1,med&2,3&3,more&4,high:vgood
+  0,low&1,vhigh&2,4&3,more&4,high:acc
+  0,low&1,high&2,4&3,more&4,high:acc
+  0,low&1,med&2,4&3,more&4,high:vgood
+  0,low&1,vhigh&2,5more&3,more&4,high:acc
+  0,low&1,high&2,5more&3,more&4,high:vgood
+  0,low&1,med&2,5more&3,more&4,high:vgood
+  0,low&1,low&2,5more&3,more&4,high:vgood
+第1轮迭代,规则0应该选择的属性为：safety
+新一次迭代规则队列长度为：3
+下一次迭代使用的规则：
+4,low:
+4,med:
+4,high:
+第2轮迭代,规则0应该为:叶子节点
+第2轮迭代,规则1应该选择的属性为：persons
+第2轮迭代,规则2应该选择的属性为：persons
+新一次迭代规则队列长度为：6
+下一次迭代使用的规则：
+3,2&4,med:
+3,4&4,med:
+3,more&4,med:
+3,2&4,high:
+3,4&4,high:
+3,more&4,high:
+第3轮迭代,规则0应该为:叶子节点
+第3轮迭代,规则1应该选择的属性为：maint
+第3轮迭代,规则2应该选择的属性为：buying
+第3轮迭代,规则3应该为:叶子节点
+第3轮迭代,规则4应该选择的属性为：buying
+第3轮迭代,规则5应该选择的属性为：buying
+新一次迭代规则队列长度为：16
+下一次迭代使用的规则：
+1,vhigh&3,4&4,med:
+1,high&3,4&4,med:
+1,med&3,4&4,med:
+1,low&3,4&4,med:
+0,vhigh&3,more&4,med:
+0,high&3,more&4,med:
+0,med&3,more&4,med:
+0,low&3,more&4,med:
+0,vhigh&3,4&4,high:
+0,high&3,4&4,high:
+0,med&3,4&4,high:
+0,low&3,4&4,high:
+0,vhigh&3,more&4,high:
+0,high&3,more&4,high:
+0,med&3,more&4,high:
+0,low&3,more&4,high:
+第4轮迭代,规则0应该选择的属性为：buying
+第4轮迭代,规则1应该选择的属性为：buying
+第4轮迭代,规则2应该选择的属性为：buying
+第4轮迭代,规则3应该选择的属性为：buying
+第4轮迭代,规则4应该选择的属性为：maint
+第4轮迭代,规则5应该选择的属性为：doors
+第4轮迭代,规则6应该选择的属性为：maint
+第4轮迭代,规则7应该选择的属性为：maint
+第4轮迭代,规则8应该选择的属性为：maint
+第4轮迭代,规则9应该选择的属性为：maint
+第4轮迭代,规则10应该选择的属性为：maint
+第4轮迭代,规则11应该选择的属性为：maint
+第4轮迭代,规则12应该选择的属性为：maint
+第4轮迭代,规则13应该选择的属性为：maint
+第4轮迭代,规则14应该选择的属性为：maint
+第4轮迭代,规则15应该选择的属性为：maint
+新一次迭代规则队列长度为：64
+下一次迭代使用的规则：
+0,vhigh&1,vhigh&3,4&4,med:
+0,high&1,vhigh&3,4&4,med:
+0,med&1,vhigh&3,4&4,med:
+0,low&1,vhigh&3,4&4,med:
+0,vhigh&1,high&3,4&4,med:
+0,high&1,high&3,4&4,med:
+0,med&1,high&3,4&4,med:
+0,low&1,high&3,4&4,med:
+0,vhigh&1,med&3,4&4,med:
+0,high&1,med&3,4&4,med:
+0,med&1,med&3,4&4,med:
+0,low&1,med&3,4&4,med:
+0,vhigh&1,low&3,4&4,med:
+0,high&1,low&3,4&4,med:
+0,med&1,low&3,4&4,med:
+0,low&1,low&3,4&4,med:
+0,vhigh&1,vhigh&3,more&4,med:
+0,vhigh&1,high&3,more&4,med:
+0,vhigh&1,med&3,more&4,med:
+0,vhigh&1,low&3,more&4,med:
+0,high&2,2&3,more&4,med:
+0,high&2,3&3,more&4,med:
+0,high&2,4&3,more&4,med:
+0,high&2,5more&3,more&4,med:
+0,med&1,vhigh&3,more&4,med:
+0,med&1,high&3,more&4,med:
+0,med&1,med&3,more&4,med:
+0,med&1,low&3,more&4,med:
+0,low&1,vhigh&3,more&4,med:
+0,low&1,high&3,more&4,med:
+0,low&1,med&3,more&4,med:
+0,low&1,low&3,more&4,med:
+0,vhigh&1,vhigh&3,4&4,high:
+0,vhigh&1,high&3,4&4,high:
+0,vhigh&1,med&3,4&4,high:
+0,vhigh&1,low&3,4&4,high:
+0,high&1,vhigh&3,4&4,high:
+0,high&1,high&3,4&4,high:
+0,high&1,med&3,4&4,high:
+0,high&1,low&3,4&4,high:
+0,med&1,vhigh&3,4&4,high:
+0,med&1,high&3,4&4,high:
+0,med&1,med&3,4&4,high:
+0,med&1,low&3,4&4,high:
+0,low&1,vhigh&3,4&4,high:
+0,low&1,high&3,4&4,high:
+0,low&1,med&3,4&4,high:
+0,low&1,low&3,4&4,high:
+0,vhigh&1,vhigh&3,more&4,high:
+0,vhigh&1,high&3,more&4,high:
+0,vhigh&1,med&3,more&4,high:
+0,vhigh&1,low&3,more&4,high:
+0,high&1,vhigh&3,more&4,high:
+0,high&1,high&3,more&4,high:
+0,high&1,med&3,more&4,high:
+0,high&1,low&3,more&4,high:
+0,med&1,vhigh&3,more&4,high:
+0,med&1,high&3,more&4,high:
+0,med&1,med&3,more&4,high:
+0,med&1,low&3,more&4,high:
+0,low&1,vhigh&3,more&4,high:
+0,low&1,high&3,more&4,high:
+0,low&1,med&3,more&4,high:
+0,low&1,low&3,more&4,high:
+第5轮迭代,规则0应该为:叶子节点
+第5轮迭代,规则1应该为:叶子节点
+第5轮迭代,规则2应该选择的属性为：doors
+第5轮迭代,规则3应该为:叶子节点
+第5轮迭代,规则4应该为:叶子节点
+第5轮迭代,规则5应该选择的属性为：doors
+第5轮迭代,规则6应该选择的属性为：doors
+第5轮迭代,规则7应该为:叶子节点
+第5轮迭代,规则8应该选择的属性为：doors
+第5轮迭代,规则9应该选择的属性为：doors
+第5轮迭代,规则10应该为:叶子节点
+第5轮迭代,规则11应该选择的属性为：doors
+第5轮迭代,规则12应该选择的属性为：doors
+第5轮迭代,规则13应该选择的属性为：doors
+第5轮迭代,规则14应该选择的属性为：doors
+第5轮迭代,规则15应该选择的属性为：doors
+第5轮迭代,规则16应该为:叶子节点
+第5轮迭代,规则17应该为:叶子节点
+第5轮迭代,规则18应该选择的属性为：doors
+第5轮迭代,规则19应该选择的属性为：doors
+第5轮迭代,规则20应该选择的属性为：maint
+第5轮迭代,规则21应该为:叶子节点
+第5轮迭代,规则22应该选择的属性为：maint
+第5轮迭代,规则23应该选择的属性为：maint
+第5轮迭代,规则24应该选择的属性为：doors
+第5轮迭代,规则25应该选择的属性为：doors
+第5轮迭代,规则26应该选择的属性为：doors
+第5轮迭代,规则27应该选择的属性为：doors
+第5轮迭代,规则28应该选择的属性为：doors
+第5轮迭代,规则29应该选择的属性为：doors
+第5轮迭代,规则30应该选择的属性为：doors
+第5轮迭代,规则31应该选择的属性为：doors
+第5轮迭代,规则32应该为:叶子节点
+第5轮迭代,规则33应该为:叶子节点
+第5轮迭代,规则34应该为:叶子节点
+第5轮迭代,规则35应该为:叶子节点
+第5轮迭代,规则36应该为:叶子节点
+第5轮迭代,规则37应该为:叶子节点
+第5轮迭代,规则38应该为:叶子节点
+第5轮迭代,规则39应该为:叶子节点
+第5轮迭代,规则40应该为:叶子节点
+第5轮迭代,规则41应该为:叶子节点
+第5轮迭代,规则42应该选择的属性为：doors
+第5轮迭代,规则43应该选择的属性为：doors
+第5轮迭代,规则44应该为:叶子节点
+第5轮迭代,规则45应该选择的属性为：doors
+第5轮迭代,规则46应该选择的属性为：doors
+第5轮迭代,规则47应该选择的属性为：doors
+第5轮迭代,规则48应该为:叶子节点
+第5轮迭代,规则49应该为:叶子节点
+第5轮迭代,规则50应该为:叶子节点
+第5轮迭代,规则51应该为:叶子节点
+第5轮迭代,规则52应该为:叶子节点
+第5轮迭代,规则53应该为:叶子节点
+第5轮迭代,规则54应该选择的属性为：doors
+第5轮迭代,规则55应该为:叶子节点
+第5轮迭代,规则56应该为:叶子节点
+第5轮迭代,规则57应该选择的属性为：doors
+第5轮迭代,规则58应该选择的属性为：doors
+第5轮迭代,规则59应该选择的属性为：doors
+第5轮迭代,规则60应该选择的属性为：doors
+第5轮迭代,规则61应该选择的属性为：doors
+第5轮迭代,规则62应该选择的属性为：doors
+第5轮迭代,规则63应该选择的属性为：doors
+新一次迭代规则队列长度为：144
+下一次迭代使用的规则：
+0,med&1,vhigh&2,2&3,4&4,med:
+0,med&1,vhigh&2,3&3,4&4,med:
+0,med&1,vhigh&2,4&3,4&4,med:
+0,med&1,vhigh&2,5more&3,4&4,med:
+0,high&1,high&2,2&3,4&4,med:
+0,high&1,high&2,3&3,4&4,med:
+0,high&1,high&2,4&3,4&4,med:
+0,high&1,high&2,5more&3,4&4,med:
+0,med&1,high&2,2&3,4&4,med:
+0,med&1,high&2,3&3,4&4,med:
+0,med&1,high&2,4&3,4&4,med:
+0,med&1,high&2,5more&3,4&4,med:
+0,vhigh&1,med&2,2&3,4&4,med:
+0,vhigh&1,med&2,3&3,4&4,med:
+0,vhigh&1,med&2,4&3,4&4,med:
+0,vhigh&1,med&2,5more&3,4&4,med:
+0,high&1,med&2,2&3,4&4,med:
+0,high&1,med&2,3&3,4&4,med:
+0,high&1,med&2,4&3,4&4,med:
+0,high&1,med&2,5more&3,4&4,med:
+0,low&1,med&2,2&3,4&4,med:
+0,low&1,med&2,3&3,4&4,med:
+0,low&1,med&2,4&3,4&4,med:
+0,low&1,med&2,5more&3,4&4,med:
+0,vhigh&1,low&2,2&3,4&4,med:
+0,vhigh&1,low&2,3&3,4&4,med:
+0,vhigh&1,low&2,4&3,4&4,med:
+0,vhigh&1,low&2,5more&3,4&4,med:
+0,high&1,low&2,2&3,4&4,med:
+0,high&1,low&2,3&3,4&4,med:
+0,high&1,low&2,4&3,4&4,med:
+0,high&1,low&2,5more&3,4&4,med:
+0,med&1,low&2,2&3,4&4,med:
+0,med&1,low&2,3&3,4&4,med:
+0,med&1,low&2,4&3,4&4,med:
+0,med&1,low&2,5more&3,4&4,med:
+0,low&1,low&2,2&3,4&4,med:
+0,low&1,low&2,3&3,4&4,med:
+0,low&1,low&2,4&3,4&4,med:
+0,low&1,low&2,5more&3,4&4,med:
+0,vhigh&1,med&2,2&3,more&4,med:
+0,vhigh&1,med&2,3&3,more&4,med:
+0,vhigh&1,med&2,4&3,more&4,med:
+0,vhigh&1,med&2,5more&3,more&4,med:
+0,vhigh&1,low&2,2&3,more&4,med:
+0,vhigh&1,low&2,3&3,more&4,med:
+0,vhigh&1,low&2,4&3,more&4,med:
+0,vhigh&1,low&2,5more&3,more&4,med:
+0,high&1,vhigh&2,2&3,more&4,med:
+0,high&1,high&2,2&3,more&4,med:
+0,high&1,med&2,2&3,more&4,med:
+0,high&1,low&2,2&3,more&4,med:
+0,high&1,vhigh&2,4&3,more&4,med:
+0,high&1,high&2,4&3,more&4,med:
+0,high&1,med&2,4&3,more&4,med:
+0,high&1,low&2,4&3,more&4,med:
+0,high&1,vhigh&2,5more&3,more&4,med:
+0,high&1,high&2,5more&3,more&4,med:
+0,high&1,med&2,5more&3,more&4,med:
+0,high&1,low&2,5more&3,more&4,med:
+0,med&1,vhigh&2,2&3,more&4,med:
+0,med&1,vhigh&2,3&3,more&4,med:
+0,med&1,vhigh&2,4&3,more&4,med:
+0,med&1,vhigh&2,5more&3,more&4,med:
+0,med&1,high&2,2&3,more&4,med:
+0,med&1,high&2,3&3,more&4,med:
+0,med&1,high&2,4&3,more&4,med:
+0,med&1,high&2,5more&3,more&4,med:
+0,med&1,med&2,2&3,more&4,med:
+0,med&1,med&2,3&3,more&4,med:
+0,med&1,med&2,4&3,more&4,med:
+0,med&1,med&2,5more&3,more&4,med:
+0,med&1,low&2,2&3,more&4,med:
+0,med&1,low&2,3&3,more&4,med:
+0,med&1,low&2,4&3,more&4,med:
+0,med&1,low&2,5more&3,more&4,med:
+0,low&1,vhigh&2,2&3,more&4,med:
+0,low&1,vhigh&2,3&3,more&4,med:
+0,low&1,vhigh&2,4&3,more&4,med:
+0,low&1,vhigh&2,5more&3,more&4,med:
+0,low&1,high&2,2&3,more&4,med:
+0,low&1,high&2,3&3,more&4,med:
+0,low&1,high&2,4&3,more&4,med:
+0,low&1,high&2,5more&3,more&4,med:
+0,low&1,med&2,2&3,more&4,med:
+0,low&1,med&2,3&3,more&4,med:
+0,low&1,med&2,4&3,more&4,med:
+0,low&1,med&2,5more&3,more&4,med:
+0,low&1,low&2,2&3,more&4,med:
+0,low&1,low&2,3&3,more&4,med:
+0,low&1,low&2,4&3,more&4,med:
+0,low&1,low&2,5more&3,more&4,med:
+0,med&1,med&2,2&3,4&4,high:
+0,med&1,med&2,3&3,4&4,high:
+0,med&1,med&2,4&3,4&4,high:
+0,med&1,med&2,5more&3,4&4,high:
+0,med&1,low&2,2&3,4&4,high:
+0,med&1,low&2,3&3,4&4,high:
+0,med&1,low&2,4&3,4&4,high:
+0,med&1,low&2,5more&3,4&4,high:
+0,low&1,high&2,2&3,4&4,high:
+0,low&1,high&2,3&3,4&4,high:
+0,low&1,high&2,4&3,4&4,high:
+0,low&1,high&2,5more&3,4&4,high:
+0,low&1,med&2,2&3,4&4,high:
+0,low&1,med&2,3&3,4&4,high:
+0,low&1,med&2,4&3,4&4,high:
+0,low&1,med&2,5more&3,4&4,high:
+0,low&1,low&2,2&3,4&4,high:
+0,low&1,low&2,3&3,4&4,high:
+0,low&1,low&2,4&3,4&4,high:
+0,low&1,low&2,5more&3,4&4,high:
+0,high&1,med&2,2&3,more&4,high:
+0,high&1,med&2,3&3,more&4,high:
+0,high&1,med&2,4&3,more&4,high:
+0,high&1,med&2,5more&3,more&4,high:
+0,med&1,high&2,2&3,more&4,high:
+0,med&1,high&2,3&3,more&4,high:
+0,med&1,high&2,4&3,more&4,high:
+0,med&1,high&2,5more&3,more&4,high:
+0,med&1,med&2,2&3,more&4,high:
+0,med&1,med&2,3&3,more&4,high:
+0,med&1,med&2,4&3,more&4,high:
+0,med&1,med&2,5more&3,more&4,high:
+0,med&1,low&2,2&3,more&4,high:
+0,med&1,low&2,3&3,more&4,high:
+0,med&1,low&2,4&3,more&4,high:
+0,med&1,low&2,5more&3,more&4,high:
+0,low&1,vhigh&2,2&3,more&4,high:
+0,low&1,vhigh&2,3&3,more&4,high:
+0,low&1,vhigh&2,4&3,more&4,high:
+0,low&1,vhigh&2,5more&3,more&4,high:
+0,low&1,high&2,2&3,more&4,high:
+0,low&1,high&2,3&3,more&4,high:
+0,low&1,high&2,4&3,more&4,high:
+0,low&1,high&2,5more&3,more&4,high:
+0,low&1,med&2,2&3,more&4,high:
+0,low&1,med&2,3&3,more&4,high:
+0,low&1,med&2,4&3,more&4,high:
+0,low&1,med&2,5more&3,more&4,high:
+0,low&1,low&2,2&3,more&4,high:
+0,low&1,low&2,3&3,more&4,high:
+0,low&1,low&2,4&3,more&4,high:
+0,low&1,low&2,5more&3,more&4,high:
+第6轮迭代,规则0应该为:叶子节点
+第6轮迭代,规则1应该为:叶子节点
+第6轮迭代,规则2应该为:叶子节点
+第6轮迭代,规则3应该为:叶子节点
+第6轮迭代,规则4应该为:叶子节点
+第6轮迭代,规则5应该为:叶子节点
+第6轮迭代,规则6应该为:叶子节点
+第6轮迭代,规则7应该为:叶子节点
+第6轮迭代,规则8应该为:叶子节点
+第6轮迭代,规则9应该为:叶子节点
+第6轮迭代,规则10应该为:叶子节点
+第6轮迭代,规则11应该为:叶子节点
+第6轮迭代,规则13应该为:叶子节点
+第6轮迭代,规则14应该为:叶子节点
+第6轮迭代,规则15应该为:叶子节点
+第6轮迭代,规则16应该为:叶子节点
+第6轮迭代,规则18应该为:叶子节点
+第6轮迭代,规则19应该为:叶子节点
+第6轮迭代,规则21应该为:叶子节点
+第6轮迭代,规则22应该为:叶子节点
+第6轮迭代,规则23应该为:叶子节点
+第6轮迭代,规则24应该为:叶子节点
+第6轮迭代,规则25应该为:叶子节点
+第6轮迭代,规则26应该为:叶子节点
+第6轮迭代,规则27应该为:叶子节点
+第6轮迭代,规则28应该为:叶子节点
+第6轮迭代,规则29应该为:叶子节点
+第6轮迭代,规则30应该为:叶子节点
+第6轮迭代,规则31应该为:叶子节点
+第6轮迭代,规则32应该为:叶子节点
+第6轮迭代,规则33应该为:叶子节点
+第6轮迭代,规则34应该为:叶子节点
+第6轮迭代,规则36应该为:叶子节点
+第6轮迭代,规则37应该为:叶子节点
+第6轮迭代,规则38应该为:叶子节点
+第6轮迭代,规则39应该为:叶子节点
+第6轮迭代,规则40应该为:叶子节点
+第6轮迭代,规则41应该为:叶子节点
+第6轮迭代,规则42应该为:叶子节点
+第6轮迭代,规则43应该为:叶子节点
+第6轮迭代,规则44应该为:叶子节点
+第6轮迭代,规则46应该为:叶子节点
+第6轮迭代,规则47应该为:叶子节点
+第6轮迭代,规则48应该为:叶子节点
+第6轮迭代,规则50应该为:叶子节点
+第6轮迭代,规则52应该为:叶子节点
+第6轮迭代,规则53应该为:叶子节点
+第6轮迭代,规则55应该为:叶子节点
+第6轮迭代,规则57应该为:叶子节点
+第6轮迭代,规则58应该为:叶子节点
+第6轮迭代,规则59应该为:叶子节点
+第6轮迭代,规则60应该为:叶子节点
+第6轮迭代,规则61应该为:叶子节点
+第6轮迭代,规则62应该为:叶子节点
+第6轮迭代,规则63应该为:叶子节点
+第6轮迭代,规则64应该为:叶子节点
+第6轮迭代,规则65应该为:叶子节点
+第6轮迭代,规则66应该为:叶子节点
+第6轮迭代,规则67应该为:叶子节点
+第6轮迭代,规则68应该为:叶子节点
+第6轮迭代,规则69应该为:叶子节点
+第6轮迭代,规则70应该为:叶子节点
+第6轮迭代,规则71应该为:叶子节点
+第6轮迭代,规则72应该为:叶子节点
+第6轮迭代,规则73应该为:叶子节点
+第6轮迭代,规则74应该为:叶子节点
+第6轮迭代,规则75应该为:叶子节点
+第6轮迭代,规则76应该为:叶子节点
+第6轮迭代,规则77应该为:叶子节点
+第6轮迭代,规则78应该为:叶子节点
+第6轮迭代,规则79应该为:叶子节点
+第6轮迭代,规则80应该为:叶子节点
+第6轮迭代,规则81应该为:叶子节点
+第6轮迭代,规则82应该为:叶子节点
+第6轮迭代,规则83应该为:叶子节点
+第6轮迭代,规则84应该为:叶子节点
+第6轮迭代,规则85应该为:叶子节点
+第6轮迭代,规则86应该为:叶子节点
+第6轮迭代,规则87应该为:叶子节点
+第6轮迭代,规则88应该为:叶子节点
+第6轮迭代,规则89应该为:叶子节点
+第6轮迭代,规则90应该为:叶子节点
+第6轮迭代,规则91应该为:叶子节点
+第6轮迭代,规则92应该为:叶子节点
+第6轮迭代,规则93应该为:叶子节点
+第6轮迭代,规则94应该为:叶子节点
+第6轮迭代,规则96应该为:叶子节点
+第6轮迭代,规则97应该为:叶子节点
+第6轮迭代,规则98应该为:叶子节点
+第6轮迭代,规则99应该为:叶子节点
+第6轮迭代,规则100应该为:叶子节点
+第6轮迭代,规则101应该为:叶子节点
+第6轮迭代,规则102应该为:叶子节点
+第6轮迭代,规则103应该为:叶子节点
+第6轮迭代,规则104应该为:叶子节点
+第6轮迭代,规则105应该为:叶子节点
+第6轮迭代,规则106应该为:叶子节点
+第6轮迭代,规则107应该为:叶子节点
+第6轮迭代,规则108应该为:叶子节点
+第6轮迭代,规则109应该为:叶子节点
+第6轮迭代,规则110应该为:叶子节点
+第6轮迭代,规则111应该为:叶子节点
+第6轮迭代,规则112应该为:叶子节点
+第6轮迭代,规则113应该为:叶子节点
+第6轮迭代,规则114应该为:叶子节点
+第6轮迭代,规则115应该为:叶子节点
+第6轮迭代,规则116应该为:叶子节点
+第6轮迭代,规则117应该为:叶子节点
+第6轮迭代,规则118应该为:叶子节点
+第6轮迭代,规则119应该为:叶子节点
+第6轮迭代,规则120应该为:叶子节点
+第6轮迭代,规则121应该为:叶子节点
+第6轮迭代,规则122应该为:叶子节点
+第6轮迭代,规则123应该为:叶子节点
+第6轮迭代,规则124应该为:叶子节点
+第6轮迭代,规则125应该为:叶子节点
+第6轮迭代,规则126应该为:叶子节点
+第6轮迭代,规则127应该为:叶子节点
+第6轮迭代,规则128应该为:叶子节点
+第6轮迭代,规则129应该为:叶子节点
+第6轮迭代,规则130应该为:叶子节点
+第6轮迭代,规则131应该为:叶子节点
+第6轮迭代,规则132应该为:叶子节点
+第6轮迭代,规则133应该为:叶子节点
+第6轮迭代,规则134应该为:叶子节点
+第6轮迭代,规则135应该为:叶子节点
+第6轮迭代,规则136应该为:叶子节点
+第6轮迭代,规则137应该为:叶子节点
+第6轮迭代,规则138应该为:叶子节点
+第6轮迭代,规则139应该为:叶子节点
+第6轮迭代,规则140应该为:叶子节点
+第6轮迭代,规则141应该为:叶子节点
+第6轮迭代,规则142应该为:叶子节点
+第6轮迭代,规则143应该为:叶子节点
+新一次迭代规则队列长度为：0
+下一次迭代使用的规则：
+
+****************************
+********* 程序结束！ *********
+****************************
+最终的规则为：
+  4,low:unacc
+  3,2&4,med:unacc
+  3,2&4,high:unacc
+  0,vhigh&1,vhigh&3,4&4,med:unacc
+  0,high&1,vhigh&3,4&4,med:unacc
+  0,low&1,vhigh&3,4&4,med:unacc
+  0,vhigh&1,high&3,4&4,med:unacc
+  0,low&1,high&3,4&4,med:acc
+  0,med&1,med&3,4&4,med:acc
+  0,vhigh&1,vhigh&3,more&4,med:unacc
+  0,vhigh&1,high&3,more&4,med:unacc
+  0,high&2,3&3,more&4,med:acc
+  0,vhigh&1,vhigh&3,4&4,high:unacc
+  0,vhigh&1,high&3,4&4,high:unacc
+  0,vhigh&1,med&3,4&4,high:acc
+  0,vhigh&1,low&3,4&4,high:acc
+  0,high&1,vhigh&3,4&4,high:unacc
+  0,high&1,high&3,4&4,high:acc
+  0,high&1,med&3,4&4,high:acc
+  0,high&1,low&3,4&4,high:acc
+  0,med&1,vhigh&3,4&4,high:acc
+  0,med&1,high&3,4&4,high:acc
+  0,low&1,vhigh&3,4&4,high:acc
+  0,vhigh&1,vhigh&3,more&4,high:unacc
+  0,vhigh&1,high&3,more&4,high:unacc
+  0,vhigh&1,med&3,more&4,high:acc
+  0,vhigh&1,low&3,more&4,high:acc
+  0,high&1,vhigh&3,more&4,high:unacc
+  0,high&1,high&3,more&4,high:acc
+  0,high&1,low&3,more&4,high:acc
+  0,med&1,vhigh&3,more&4,high:acc
+  0,med&1,vhigh&2,2&3,4&4,med:acc
+  0,med&1,vhigh&2,3&3,4&4,med:unacc
+  0,med&1,vhigh&2,4&3,4&4,med:unacc
+  0,med&1,vhigh&2,5more&3,4&4,med:acc
+  0,high&1,high&2,2&3,4&4,med:unacc
+  0,high&1,high&2,3&3,4&4,med:unacc
+  0,high&1,high&2,4&3,4&4,med:unacc
+  0,high&1,high&2,5more&3,4&4,med:acc
+  0,med&1,high&2,2&3,4&4,med:unacc
+  0,med&1,high&2,3&3,4&4,med:unacc
+  0,med&1,high&2,4&3,4&4,med:acc
+  0,med&1,high&2,5more&3,4&4,med:acc
+  0,vhigh&1,med&2,3&3,4&4,med:unacc
+  0,vhigh&1,med&2,4&3,4&4,med:acc
+  0,vhigh&1,med&2,5more&3,4&4,med:unacc
+  0,high&1,med&2,2&3,4&4,med:acc
+  0,high&1,med&2,4&3,4&4,med:acc
+  0,high&1,med&2,5more&3,4&4,med:acc
+  0,low&1,med&2,3&3,4&4,med:good
+  0,low&1,med&2,4&3,4&4,med:good
+  0,low&1,med&2,5more&3,4&4,med:good
+  0,vhigh&1,low&2,2&3,4&4,med:acc
+  0,vhigh&1,low&2,3&3,4&4,med:unacc
+  0,vhigh&1,low&2,4&3,4&4,med:acc
+  0,vhigh&1,low&2,5more&3,4&4,med:unacc
+  0,high&1,low&2,2&3,4&4,med:unacc
+  0,high&1,low&2,3&3,4&4,med:unacc
+  0,high&1,low&2,4&3,4&4,med:unacc
+  0,high&1,low&2,5more&3,4&4,med:acc
+  0,med&1,low&2,2&3,4&4,med:acc
+  0,med&1,low&2,3&3,4&4,med:good
+  0,med&1,low&2,4&3,4&4,med:good
+  0,low&1,low&2,2&3,4&4,med:acc
+  0,low&1,low&2,3&3,4&4,med:good
+  0,low&1,low&2,4&3,4&4,med:good
+  0,low&1,low&2,5more&3,4&4,med:acc
+  0,vhigh&1,med&2,2&3,more&4,med:unacc
+  0,vhigh&1,med&2,3&3,more&4,med:acc
+  0,vhigh&1,med&2,4&3,more&4,med:acc
+  0,vhigh&1,med&2,5more&3,more&4,med:acc
+  0,vhigh&1,low&2,2&3,more&4,med:unacc
+  0,vhigh&1,low&2,4&3,more&4,med:acc
+  0,vhigh&1,low&2,5more&3,more&4,med:unacc
+  0,high&1,vhigh&2,2&3,more&4,med:unacc
+  0,high&1,med&2,2&3,more&4,med:acc
+  0,high&1,vhigh&2,4&3,more&4,med:unacc
+  0,high&1,high&2,4&3,more&4,med:acc
+  0,high&1,low&2,4&3,more&4,med:unacc
+  0,high&1,high&2,5more&3,more&4,med:unacc
+  0,high&1,med&2,5more&3,more&4,med:unacc
+  0,high&1,low&2,5more&3,more&4,med:acc
+  0,med&1,vhigh&2,2&3,more&4,med:unacc
+  0,med&1,vhigh&2,3&3,more&4,med:unacc
+  0,med&1,vhigh&2,4&3,more&4,med:unacc
+  0,med&1,vhigh&2,5more&3,more&4,med:acc
+  0,med&1,high&2,2&3,more&4,med:unacc
+  0,med&1,high&2,3&3,more&4,med:unacc
+  0,med&1,high&2,4&3,more&4,med:acc
+  0,med&1,high&2,5more&3,more&4,med:acc
+  0,med&1,med&2,2&3,more&4,med:unacc
+  0,med&1,med&2,3&3,more&4,med:acc
+  0,med&1,med&2,4&3,more&4,med:acc
+  0,med&1,med&2,5more&3,more&4,med:acc
+  0,med&1,low&2,2&3,more&4,med:unacc
+  0,med&1,low&2,3&3,more&4,med:good
+  0,med&1,low&2,4&3,more&4,med:good
+  0,med&1,low&2,5more&3,more&4,med:acc
+  0,low&1,vhigh&2,2&3,more&4,med:unacc
+  0,low&1,vhigh&2,3&3,more&4,med:acc
+  0,low&1,vhigh&2,4&3,more&4,med:acc
+  0,low&1,vhigh&2,5more&3,more&4,med:unacc
+  0,low&1,high&2,2&3,more&4,med:acc
+  0,low&1,high&2,3&3,more&4,med:acc
+  0,low&1,high&2,4&3,more&4,med:acc
+  0,low&1,high&2,5more&3,more&4,med:acc
+  0,low&1,med&2,2&3,more&4,med:unacc
+  0,low&1,med&2,3&3,more&4,med:acc
+  0,low&1,med&2,4&3,more&4,med:good
+  0,low&1,med&2,5more&3,more&4,med:good
+  0,low&1,low&2,2&3,more&4,med:good
+  0,low&1,low&2,3&3,more&4,med:good
+  0,low&1,low&2,4&3,more&4,med:good
+  0,low&1,low&2,5more&3,more&4,med:acc
+  0,med&1,med&2,2&3,4&4,high:acc
+  0,med&1,med&2,3&3,4&4,high:acc
+  0,med&1,med&2,4&3,4&4,high:vgood
+  0,med&1,low&2,2&3,4&4,high:good
+  0,med&1,low&2,3&3,4&4,high:good
+  0,med&1,low&2,4&3,4&4,high:good
+  0,med&1,low&2,5more&3,4&4,high:vgood
+  0,low&1,high&2,2&3,4&4,high:acc
+  0,low&1,high&2,3&3,4&4,high:acc
+  0,low&1,high&2,4&3,4&4,high:vgood
+  0,low&1,high&2,5more&3,4&4,high:acc
+  0,low&1,med&2,2&3,4&4,high:good
+  0,low&1,med&2,3&3,4&4,high:vgood
+  0,low&1,med&2,4&3,4&4,high:good
+  0,low&1,med&2,5more&3,4&4,high:good
+  0,low&1,low&2,2&3,4&4,high:good
+  0,low&1,low&2,3&3,4&4,high:good
+  0,low&1,low&2,4&3,4&4,high:good
+  0,low&1,low&2,5more&3,4&4,high:good
+  0,high&1,med&2,2&3,more&4,high:unacc
+  0,high&1,med&2,3&3,more&4,high:acc
+  0,high&1,med&2,4&3,more&4,high:acc
+  0,high&1,med&2,5more&3,more&4,high:acc
+  0,med&1,high&2,2&3,more&4,high:unacc
+  0,med&1,high&2,3&3,more&4,high:acc
+  0,med&1,high&2,4&3,more&4,high:acc
+  0,med&1,high&2,5more&3,more&4,high:acc
+  0,med&1,med&2,2&3,more&4,high:unacc
+  0,med&1,med&2,3&3,more&4,high:vgood
+  0,med&1,med&2,4&3,more&4,high:vgood
+  0,med&1,med&2,5more&3,more&4,high:acc
+  0,med&1,low&2,2&3,more&4,high:vgood
+  0,med&1,low&2,3&3,more&4,high:vgood
+  0,med&1,low&2,4&3,more&4,high:vgood
+  0,med&1,low&2,5more&3,more&4,high:good
+  0,low&1,vhigh&2,2&3,more&4,high:unacc
+  0,low&1,vhigh&2,3&3,more&4,high:acc
+  0,low&1,vhigh&2,4&3,more&4,high:acc
+  0,low&1,vhigh&2,5more&3,more&4,high:acc
+  0,low&1,high&2,2&3,more&4,high:acc
+  0,low&1,high&2,3&3,more&4,high:vgood
+  0,low&1,high&2,4&3,more&4,high:vgood
+  0,low&1,high&2,5more&3,more&4,high:vgood
+  0,low&1,med&2,2&3,more&4,high:vgood
+  0,low&1,med&2,3&3,more&4,high:vgood
+  0,low&1,med&2,4&3,more&4,high:vgood
+  0,low&1,med&2,5more&3,more&4,high:good
+  0,low&1,low&2,2&3,more&4,high:vgood
+  0,low&1,low&2,3&3,more&4,high:vgood
+  0,low&1,low&2,4&3,more&4,high:good
+  0,low&1,low&2,5more&3,more&4,high:good
